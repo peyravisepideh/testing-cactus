@@ -1,0 +1,185 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3074804C-4626-4C0C-97A5-11338D4B7796",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 896,
+    "width": 414,
+    "x": 1691,
+    "y": 841
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "7A7C84E7-2A8B-4C1A-8E2A-2EEE0C7E85D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3539B706-DB71-4E00-A614-32EA6603EC68"
+    },
+    {
+      "class": "text",
+      "id": "892E1F7E-0C94-47DF-A3F2-8ED96102A76E"
+    },
+    {
+      "class": "rectangle",
+      "id": "FB6FD31D-7053-4973-A224-AB5C3EC6FF07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8AEA5400-6E04-4B71-BD51-E7F732C47F20"
+    },
+    {
+      "class": "text",
+      "id": "AC0CDA1C-77D4-4743-9861-356E99556798"
+    },
+    {
+      "class": "rectangle",
+      "id": "979FBE5C-A027-45A7-97CE-6173F38D9D67"
+    },
+    {
+      "class": "text",
+      "id": "AB0D152D-F1CD-4D76-8574-F5D8B232E194"
+    },
+    {
+      "class": "text",
+      "id": "3A5817C2-DEBE-44DB-BD61-C670CA966822"
+    },
+    {
+      "class": "text",
+      "id": "73CECFC9-16A0-46A3-BA22-BAA0E64A10EE"
+    },
+    {
+      "class": "group",
+      "id": "C324205F-6781-4AB3-9A42-DA7B13287F77"
+    },
+    {
+      "class": "text",
+      "id": "A999F16B-9523-46D0-9EAD-B4867D019DE1"
+    },
+    {
+      "class": "rectangle",
+      "id": "2FD067A0-170F-43A8-8E8E-86FD43BF283C"
+    },
+    {
+      "class": "group",
+      "id": "9DDB52AB-C27F-4E58-96D1-DEE599A4B94D"
+    },
+    {
+      "class": "group",
+      "id": "7E22FC86-9B8B-42C2-BC24-7E5EEA86A89E"
+    },
+    {
+      "class": "bitmap",
+      "id": "5F638B97-1CC4-4D0C-87A3-ADB55D712ACF"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "7.1",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 896,
+    "name": "iPhone 11",
+    "offersLandscapeVariant": 1,
+    "width": 414
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FC2357E0-A925-43CE-A025-9E1305D7D5DA",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -1374,
+    "guides": [
+      84
+    ]
+  }
+}
